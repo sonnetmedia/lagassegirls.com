@@ -1,7 +1,7 @@
 
 title: "The Lagasse Girls"
 description: "Authors of *The Gluten Free Table* and *The Lagasse Girls' Big Flavor Bold Taste and No Gluten*"
-url: "/" # the base hostname & protocol for your site
+url: "www.lagassegirls.com" # the base hostname & protocol for your site
 
 include: ['_pages']
 exclude: ['readme.md','license.md','Gemfile', 'CNAME', 'bower.json', 'node_modules', 'bower_components', 'sass', 'gulpfile.js', 'package.json']
