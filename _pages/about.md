@@ -4,7 +4,7 @@ author: lagassedev
 layout: page
 permalink: /about/
 ---
-![](/static/images/jilly_mg_6176_300.jpg) **Jillian Lagasse’s** talent and passion for food was apparent from quite an early age. Recognizing her natural talent in the kitchen, her father gifted her with a set of Chefs Whites and allowed her to start helping in the Pastry and Dessert Department in one of his restaurants. This led to her assisting him on book tours, cooking events and even working alongside him on his “Emeril’s Creole Christmas” cookbook.
+![](/static/images/jilly_MG_6176_300.jpg) **Jillian Lagasse’s** talent and passion for food was apparent from quite an early age. Recognizing her natural talent in the kitchen, her father gifted her with a set of Chefs Whites and allowed her to start helping in the Pastry and Dessert Department in one of his restaurants. This led to her assisting him on book tours, cooking events and even working alongside him on his “Emeril’s Creole Christmas” cookbook.
 
 In 2004, the same year she was diagnosed with Celiac’s, Jillian decided to follow another passion, moving to London, England to attend a renowned make up and airbrush artistry school. Her career immediately took off, drawing her to such cities as Los Angeles, Mumbai, and New York City. She continued to work with her father, but in a different capacity, moving from the kitchen to the television set, becoming the staff makeup artist for “The Originals” program as seen on The Cooking Channel, as well as “Emeril’s Table” on The Hallmark Channel. Jillian currently splits her time between New Orleans and London. An apron is always packed and on hand for cooking in anyone’s kitchen she can along the way.
 
