@@ -9,8 +9,8 @@ exclude: ['readme.md','license.md','Gemfile', 'CNAME', 'bower.json', 'node_modul
 markdown: kramdown
 permalink: pretty
 
-production: false
-google_analytics_id:
+production: true
+google_analytics_id: UA-21655936-32
 # source: content
 # TODO: Set default layouts for posts, pages, and arguendo, and ipsos
 sass:
