@@ -29,10 +29,10 @@
 {% else %}
   <meta content="website" property="og:type">
 {% endif %}
-{% if page.description %}
-  <meta content="{{ page.description }}" property="og:description">
+{% if page.excerpt %}
+  <meta content="{{ page.excerpt }}" property="og:description">
 {% else %}
-  <meta content="{{ site.description }}" property="og:description">
+  <meta content="{{ site.excerpt }}" property="og:description">
 {% endif %}
 {% if page.url %}
   <meta content="{{site.url}}{{ page.url }}" property="og:url">
@@ -42,9 +42,9 @@
   <meta content="{{site.url}}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-  <meta content="{{site.url}}/assets/img/posts/{{ page.image }}" property="og:image">
+  <meta content="{{site.url}}/static/images/{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="{{site.url}}/assets/img/logo-aba-icc_144xb.png" property="og:image">
+  <meta content="{{site.url}}/static/images/cover-big-bold-flavor.jpg" property="og:image">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
