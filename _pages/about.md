@@ -1,0 +1,11 @@
+---
+title: About
+author: lagassedev
+layout: page
+permalink: /about/
+---
+![](/static/images/jilly_mg_6176_300.jpg) **Jillian Lagasse’s** talent and passion for food was apparent from quite an early age. Recognizing her natural talent in the kitchen, her father gifted her with a set of Chefs Whites and allowed her to start helping in the Pastry and Dessert Department in one of his restaurants. This led to her assisting him on book tours, cooking events and even working alongside him on his “Emeril’s Creole Christmas” cookbook.
+
+In 2004, the same year she was diagnosed with Celiac’s, Jillian decided to follow another passion, moving to London, England to attend a renowned make up and airbrush artistry school. Her career immediately took off, drawing her to such cities as Los Angeles, Mumbai, and New York City. She continued to work with her father, but in a different capacity, moving from the kitchen to the television set, becoming the staff makeup artist for “The Originals” program as seen on The Cooking Channel, as well as “Emeril’s Table” on The Hallmark Channel. Jillian currently splits her time between New Orleans and London. An apron is always packed and on hand for cooking in anyone’s kitchen she can along the way.
+
+![](/static/images/jessica_MG_5847_300.jpg) **Jessie Lagasse Swanson** is the author, along with her sister, Jilly, of <span style="text-decoration: underline">The Gluten Free Table</span> and <span style="text-decoration: underline">The Lagasse Girls&#8217; Big Flavor, Bold Taste and No Gluten</span>.  Her love of cooking and interest in learning about food was fostered, at first, by her father.  As she got older, however, Jessie found that almost every person has some valuable food lesson to impart and she began collecting these every chance she could.  In 2001, when she had to begin following a gluten free diet, Jessie&#8217;s method changed but her love of preparing and sharing food didn&#8217;t.  Since then, she has spent countless hours honing her gluten free recipes and cooking strategies in an effort to always sit down to a delicious and flavorful gluten free meal.  Jessie currently resides in New Orleans with her husband, Steven, and two sons, Jude and John Peter.

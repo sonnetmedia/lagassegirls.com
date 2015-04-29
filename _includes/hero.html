@@ -1,0 +1,12 @@
+<div class="hero" style="{% if page.image %}background-image:url(/static/images/{{ page.image }});background-position:center {% if page.background_position %}{{ page.background_position }}{% else %}center{% endif %};{% endif %}">
+{% include nav/nav-top.html  %}
+  <div class="hero-inner">
+    <!-- <a href="" class="hero-logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png
+" alt="Logo Image"></a> -->
+    <div class="hero-copy">
+      <h1>{{ site.title}}</h1>
+      <p>{{ site.description|markdownify|remove: '<p>' | remove: '</p>' }}</p>  
+    </div>
+    
+  </div>
+</div>
