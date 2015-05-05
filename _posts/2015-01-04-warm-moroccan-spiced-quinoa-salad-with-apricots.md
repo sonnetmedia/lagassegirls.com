@@ -3,8 +3,7 @@ title: Warm Moroccan Spiced Quinoa Salad with Apricots
 author: The Lagasse Girls
 layout: post
 permalink: /recipes/warm-moroccan-spiced-quinoa-salad-with-apricots/
-dsq_thread_id:
-  - 
+tagline: "If you like Moroccan spices and cuisine, we think you will fall in love with this heart-healthy salad. "
 categories:
   - 'Recipes &amp; More'
 tags:
@@ -14,7 +13,6 @@ tags:
   - moroccan
   - quinoa
 ---
-
 ### Makes 4 to 6 Servings
 
 If you like Moroccan spices and cuisine, we think you will fall in love with this heart-healthy salad. We know it will leave you feeling satisfied and happy. We suggest serving it warm, but it is also delicious cold. You should be able to find the Moroccan spice mix ras el hanout in the spice aisle at most local grocery stores. If for some reason you can’t, try your local Whole Foods Market, specialty supermarkets, or Asian markets. You could also order it online; just have a look at our Resources section to see where. It really is a key component to the dish. This quinoa is a deliciously filling vegetarian option, but if you’re not a vegetarian, feel free to add any other form of protein you’d like—or try serving it with our delicious Moroccan Lamb Tagine (page 244).
