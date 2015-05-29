@@ -3,6 +3,7 @@ title: French Toast Bake
 author: The Lagasse Girls
 layout: post
 permalink: /recipes/french-toast-bake/
+song: 'A'
 categories:
   - 'Recipes &amp; More'
 tags:

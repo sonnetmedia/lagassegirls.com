@@ -2,6 +2,7 @@
 title: Pumpkin Cheesecake
 author: The Lagasse Girls
 layout: post
+song: '7'
 permalink: /recipes/pumpkin-cheesecake/
 categories:
   - 'Recipes &amp; More'

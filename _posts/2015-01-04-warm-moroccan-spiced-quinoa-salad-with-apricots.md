@@ -2,6 +2,7 @@
 title: Warm Moroccan Spiced Quinoa Salad with Apricots
 author: The Lagasse Girls
 layout: post
+song: "000000001"
 permalink: /recipes/warm-moroccan-spiced-quinoa-salad-with-apricots/
 tagline: "If you like Moroccan spices and cuisine, we think you will fall in love with this heart-healthy salad. "
 categories:
