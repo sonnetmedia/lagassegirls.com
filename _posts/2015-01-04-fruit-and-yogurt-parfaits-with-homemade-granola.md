@@ -2,18 +2,18 @@
 title: Fruit and Yogurt Parfaits with Homemade Granola
 author: The Lagasse Girls
 layout: post
-permalink: /recipes/fruit-and-yogurt-parfaits-with-homemade-granola/
-categories:
-  - 'Recipes &amp; More'
-tags:
+permalink: "/recipes/fruit-and-yogurt-parfaits-with-homemade-granola/"
+categories: 
+  - "Recipes &amp; More"
+tags: 
   - fruit
   - granola
   - parfait
   - yogurt
+published: true
 ---
-<p style="text-align: center;">
-  Makes 4 Servings
-</p>
+
+**Makes 4 Servings**
 
 One of the first snack replacements Jessie started making for herself after she was diagnosed with her gluten sensitivity was granola. The version we settled on here is Jessie’s bare-naked version: it has no nuts, seeds, or fruits added. We’ve offered our preferred proportions for additions as optional items below, in case you prefer to add some favorites. Just keep in mind that you may have to increase the amount of coconut oil and maple syrup to compensate for the additional fruits and nuts. As for the parfait itself, please feel free to use any seasonal fresh fruit and any flavor of yogurt you like. If dairy is an issue, feel free to substitute your favorite dairy-free yogurt here. So enjoy some freedom here!
 
