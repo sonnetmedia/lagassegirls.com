@@ -2,19 +2,19 @@
 title: Shrimp Stuffed Mushrooms
 author: The Lagasse Girls
 layout: post
-permalink: /recipes/shrimp-stuffed-mushrooms/
-categories:
-  - 'Recipes &amp; More'
-tags:
+permalink: "/recipes/shrimp-stuffed-mushrooms/"
+categories: 
+  - "Recipes &amp; More"
+tags: 
   - bread crumbs
   - mushrooms
   - shrimp
   - stuffed
   - Stuffing
+published: true
 ---
-<p style="text-align: center;">
-  <strong>Makes 26 to 32 Mushrooms (with size variations)</strong>
-</p>
+
+**Makes 26 to 32 Mushrooms (with size variations)**
 
 &nbsp;
 
@@ -22,7 +22,7 @@ These quick and easy stuffed mushrooms come together so fast but taste SO good! 
 
 &nbsp;
 
-<span style="text-decoration: underline;">INGREDIENTS:</span>
+**INGREDIENTS:**
 
 2 tablespoons plus 1 tablespoon extra-virgin olive oil, divided
 
