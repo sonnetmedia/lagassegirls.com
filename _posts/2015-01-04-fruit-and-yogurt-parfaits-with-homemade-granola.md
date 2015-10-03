@@ -19,7 +19,7 @@ One of the first snack replacements Jessie started making for herself after she 
 
 &nbsp;
 
-<span style="text-decoration: underline;"><strong>Ingredients:</strong></span>
+**Ingredients:**
 
 **Granola**
 
