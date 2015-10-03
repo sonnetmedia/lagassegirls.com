@@ -1,5 +1,5 @@
 ---
-title: "Maw-maw&#8217;s Deviled Eggs"
+title: "Maw-maw's Deviled Eggs"
 author: The Lagasse Girls
 layout: post
 permalink: "/recipes/maw-maws-deviled-eggs/"
