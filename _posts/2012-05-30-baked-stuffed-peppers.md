@@ -1,16 +1,18 @@
 ---
 title: Baked Stuffed Peppers
 author: The Lagasse Girls
-excerpt: These peppers are packed with flavor. This is a quick and easy dish to put together, and it’s so filling there may even be leftovers so you can take tomorrow night off! Use any combination of vegetables you like for the stuffing mixture, and feel free to prepare it a day in advance and bake as needed. You can experiment with the colors of bell peppers and the type of ground meat, for different flavor combinations. Perhaps try ground beef or even lamb instead, for an exotic twist. Jessie loves these peppers served alongside a big, crisp salad. Jilly prefers hers with loads of nutty grated Parmesan cheese on top. However you serve it up, this will be one nutritious and delicious dinner that everyone in your family will enjoy.
+excerpt: "These peppers are packed with flavor. This is a quick and easy dish to put together, and it’s so filling there may even be leftovers so you can take tomorrow night off! Use any combination of vegetables you like for the stuffing mixture, and feel free to prepare it a day in advance and bake as needed. You can experiment with the colors of bell peppers and the type of ground meat, for different flavor combinations. Perhaps try ground beef or even lamb instead, for an exotic twist. Jessie loves these peppers served alongside a big, crisp salad. Jilly prefers hers with loads of nutty grated Parmesan cheese on top. However you serve it up, this will be one nutritious and delicious dinner that everyone in your family will enjoy."
 layout: post
-permalink: /recipes/baked-stuffed-peppers/
-dsq_thread_id:
+permalink: "/recipes/baked-stuffed-peppers/"
+dsq_thread_id: 
   - 803888466
   - 803888466
-categories:
-  - 'Recipes &amp; More'
+categories: 
+  - "Recipes &amp; More"
+published: true
 ---
-*Makes 8 to 10 peppers*
+
+**Makes 8 to 10 peppers**
 
 These peppers are packed with flavor. This is a quick and easy dish to put together, and it’s so filling there may even be leftovers so you can take tomorrow night off! Use any combination of vegetables you like for the stuffing mixture, and feel free to prepare it a day in advance and bake as needed. You can experiment with the colors of bell peppers and the type of ground meat, for different flavor combinations. Perhaps try ground beef or even lamb instead, for an exotic twist. Jessie loves these peppers served alongside a big, crisp salad. Jilly prefers hers with loads of nutty grated Parmesan cheese on top. However you serve it up, this will be one nutritious and delicious dinner that everyone in your family will enjoy.  
 ****
