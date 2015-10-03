@@ -2,25 +2,23 @@
 title: Pumpkin Cheesecake
 author: The Lagasse Girls
 layout: post
-song: '7'
-permalink: /recipes/pumpkin-cheesecake/
-categories:
-  - 'Recipes &amp; More'
-tags:
+song: "7"
+permalink: "/recipes/pumpkin-cheesecake/"
+categories: 
+  - "Recipes &amp; More"
+tags: 
   - cheesecake
   - Pie
   - pumpkin
   - thanksgiving
+published: true
 ---
-<p style="text-align: center;">
-  Serves 8
-</p>
+
+**Serves 8**
 
 This is a recipe Jessie has been making for years now but it is one that is requested every year again and again. It’s quick and easy to make and tastes deliciously decadent. Be sure to bring your cream cheese to room temp so that it blends up evenly. You can choose to garnish the pie top if you like…that also helps hide any unsightly cracks that may develop!
 
-&nbsp;
-
-INGREDIENTS
+**INGREDIENTS**
 
 Crust:
 
