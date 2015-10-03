@@ -2,25 +2,25 @@
 title: Sour Cream and Chive Mash
 author: The Lagasse Girls
 layout: post
-permalink: /recipes/sour-cream-and-chive-mash/
-categories:
-  - 'Recipes &amp; More'
-tags:
+permalink: "/recipes/sour-cream-and-chive-mash/"
+categories: 
+  - "Recipes &amp; More"
+tags: 
   - chives
   - mashed
   - milk
   - potatoes
   - sour cream
+published: true
 ---
-<p style="text-align: center;">
-  <strong>Serves 4</strong>
-</p>
+
+**Serves 4**
 
 Mashed potatoes are such a comfort food for us!  Because there are so many, delicious versions of mashed potatoes, we had a difficult time choosing one recipe for our book, <span style="text-decoration: underline;">The Gluten Free Table</span>.  But this one won out largely for its classic flavors and ease of preparation.  Naturally GF, this mash is a terrific and versatile accompaniment to many meats and flavor combinations.  So go classic and serve with a nice baked ham or try something more adventerous!
 
 &nbsp;
 
-**<span style="text-decoration: underline;">Ingredients:</span>**
+**Ingredients:**
 
 Salt
 
