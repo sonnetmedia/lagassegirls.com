@@ -1,21 +1,21 @@
 ---
-title: 'J.P.&#8217;s Baked Ziti'
+title: "J.P.&#8217;s Baked Ziti"
 author: The Lagasse Girls
 layout: post
-permalink: /recipes/j-p-s-baked-ziti/
-dsq_thread_id:
-  - 
-categories:
-  - 'Recipes &amp; More'
-tags:
+permalink: "/recipes/j-p-s-baked-ziti/"
+dsq_thread_id: 
+  - null
+categories: 
+  - "Recipes &amp; More"
+tags: 
   - baked
   - cheese
   - pasta
   - ziti
+published: true
 ---
-<p style="text-align: center;">
-  Makes 6 to 8 Servings
-</p>
+
+**Makes 6 to 8 Servings**
 
 Jessie’s son J.P., who is now three, has LOVED this dish since he was 6 months old!  It was one of his first “real” solid meals and continues to be one of his favorites still. There are different schools of thought about precooking the pasta for this dish, and Jessie has tried it both ways several times. While it is possible to use dried pasta, the consistency is sometimes not as uniform as one would like. It also takes a lot longer to cook! So, below we’ve included the precooked-pasta version, but you are welcome to try it the other way if you prefer. Just add some cook time and possibly some additional liquid or sauce! Also, if you use the precooked-pasta method, you can make this dish the night before, pop it in the fridge, and then take it out and bake it the next day for the same great flavors but less prep time before dinner. If you’re a busy mom or dad, you’ll love this time-saver!
 
