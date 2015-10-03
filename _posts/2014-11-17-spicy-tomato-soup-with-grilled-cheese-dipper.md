@@ -2,25 +2,24 @@
 title: Spicy Tomato Soup with Grilled Cheese Dipper
 author: The Lagasse Girls
 layout: post
-permalink: /recipes/spicy-tomato-soup-with-grilled-cheese-dipper/
-categories:
-  - 'Recipes &amp; More'
-tags:
+permalink: "/recipes/spicy-tomato-soup-with-grilled-cheese-dipper/"
+categories: 
+  - "Recipes &amp; More"
+tags: 
   - cheese
   - grilled cheese
   - onion
   - soup
   - tomato
+published: true
 ---
-<p style="text-align: center;">
-  <strong>Serves 6 to 8</strong>
-</p>
+
+Serves 6 to 8
 
 This quick and easy soup is super tasty but easy to make. What’s better than that, right? This version starts with canned tomatoes and adds quite a kick, if so desired…much different than the bland but beloved version of our childhood (think Campbell’s!). We haven’t found a better baguette for this recipe than Against the Grain’s version, but feel free to use whatever French-style gluten-free loaf you like best. This can easily be made dairy-free by substituting your favorite dairy-free cheese and baguettes for the dippers.
 
-&nbsp;
 
-<span style="text-decoration: underline;"><strong>Ingredients:</strong></span>
+**Ingredients:**
 
 **Soup**
 
