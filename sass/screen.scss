@@ -1,0 +1,36 @@
+//Base
+@import 
+"bower_components/normalize-scss/normalize",
+"bower_components/normalize-opentype.css/normalize-opentype",
+"bourbon",
+//"modules/grid-settings",//overrides bitters grid-settings
+"neat",
+"base/base";
+
+//  MODULES
+@import 
+"modules/accessibility",
+"modules/article",
+"modules/footer",
+"modules/hero",
+"modules/images",
+"modules/navigation",
+"modules/quotes";
+
+.wrapper {
+  max-width: 1200px;
+  background-color:#FFF;
+}
+.footer-2 {
+  max-width: 1200px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+body {
+  background-color: #F0ECE8;
+}
+
+.content {
+  padding-top:4em;
+}

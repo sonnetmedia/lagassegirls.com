@@ -1,0 +1,18 @@
+{% include global/head.html %}
+
+<body class="{{ page.class }}">
+<a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+<div class="wrapper">
+  {% include hero.html  %}
+  
+  
+    <section class="content" id="start-of-content">
+      {{content}}
+    </section>
+  
+  </div>
+  {% include global/footer.html %}
+  {% include global/scripts.html %}
+</body>
+</html>
+
